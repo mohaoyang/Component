@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "ComponentUser"
   s.version      = "0.0.1"
-  s.summary      = "all kinds of categories for iOS develop"
+  s.summary      = "add frame"
   s.homepage      =  "https://github.com/mohaoyang/ComponentUser.git"
   s.author             = { "mohaoyang" => "qhmumhy@163.com" }
   s.platform     = :ios
